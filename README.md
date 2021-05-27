@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center"># Forkify_tutorial_project</h3>
+  <h1 align="center"># Forkify Tutorial Project</h1>
 
 <!-- TABLE OF CONTENTS -->
 <summary>
